@@ -2,3 +2,4 @@
 dist
 node_modules
 storage/logs
+storage/temp
